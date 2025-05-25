@@ -6,3 +6,5 @@ Manufacturing of hand-made steel truck and trailer by applying various concepts 
 (ex- drilling, riveting, sheet metal working, sawing, filing, calibration, measurement, polishing, painting).
 
 Completed it as a part of 2 months voluntary internship at Kisters Stiftung, Kleve, Germany.
+
+![Truck and Trailer](https://github.com/28anmol/Trucks-Trailers/blob/main/Truck%20and%20Trailer.jpg)
